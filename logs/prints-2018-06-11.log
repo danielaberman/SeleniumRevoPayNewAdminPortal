@@ -1,0 +1,7 @@
+18:11:25.734 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+18:11:32.537 [main] INFO  Resources.base - INFO - FOUND: 1117 North Barrett Lane and 3026 S BROOKRIDGE WAY
+18:11:38.030 [main] INFO  Resources.base - INFO - FOUND: Account Number: 123
+18:13:43.385 [main] INFO  Resources.base - Driver is initialized
+18:13:43.391 [main] INFO  Resources.base - LandingPage is Loaded
+18:13:43.460 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+18:13:50.303 [main] INFO  Resources.base - INFO - FOUND: 1117 North Barrett Lane and 3026 S BROOKRIDGE WAY

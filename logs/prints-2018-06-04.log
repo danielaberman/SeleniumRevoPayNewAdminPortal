@@ -1,0 +1,7 @@
+16:34:03.074 [main] INFO  Resources.base - pass Master Toolbox = Master Toolbox
+16:34:03.093 [main] INFO  Resources.base - Assertion Passed
+16:34:03.954 [main] INFO  Resources.base - INFO - FOUND: Dashboard information and statistics
+16:34:45.060 [main] INFO  Resources.base - INFO - FOUND: Autopayments
+16:37:25.409 [main] INFO  Resources.base - Driver is initialized
+16:37:25.412 [main] INFO  Resources.base - LandingPage is Loaded
+16:37:25.465 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox

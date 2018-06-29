@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16272" started-at="2018-06-29T20:50:44Z" finished-at="2018-06-29T20:51:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16272" started-at="2018-06-29T20:50:44Z" finished-at="2018-06-29T20:51:01Z">
+      <class name="Revopay.NewAP012_POSITIVE_ManageWebUserPaymentsCategories">
+        <test-method status="PASS" signature="basePageNavigation2()[pri:0, instance:Revopay.NewAP012_POSITIVE_ManageWebUserPaymentsCategories@7b9a4292]" name="basePageNavigation2" duration-ms="16253" started-at="2018-06-29T13:50:44Z" finished-at="2018-06-29T13:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation2 -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:Revopay.NewAP012_POSITIVE_ManageWebUserPaymentsCategories@7b9a4292]" name="cleanup" is-config="true" duration-ms="1" started-at="2018-06-29T13:51:01Z" finished-at="2018-06-29T13:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- Revopay.NewAP012_POSITIVE_ManageWebUserPaymentsCategories -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

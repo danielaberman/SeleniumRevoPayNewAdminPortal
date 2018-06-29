@@ -1,0 +1,8 @@
+17:50:33.497 [main] INFO  Resources.base - Driver is initialized
+17:50:33.505 [main] INFO  Resources.base - LandingPage is Loaded
+17:50:33.553 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+17:50:33.573 [main] INFO  Resources.base - pass Master Toolbox = Master Toolbox
+17:50:33.573 [main] INFO  Resources.base - Assertion Passed
+18:09:31.456 [main] INFO  Resources.base - Driver is initialized
+18:09:31.459 [main] INFO  Resources.base - LandingPage is Loaded
+18:09:31.507 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox

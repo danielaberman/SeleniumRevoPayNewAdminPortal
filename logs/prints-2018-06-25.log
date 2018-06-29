@@ -1,0 +1,6 @@
+18:21:12.678 [main] INFO  Resources.base - INFO - FOUND:  CashVolume > $0.00 and = 1305.28
+18:21:12.779 [main] INFO  Resources.base - INFO - FOUND:  RecentActivityCreditCardVolume > $0.00 and = 151321.66
+18:21:12.859 [main] INFO  Resources.base - INFO - FOUND:  RecentActivityECheckVolume > $0.00 and = 21985.57
+18:21:12.943 [main] INFO  Resources.base - INFO - FOUND:  RecentActivityECheckVolume > $0.00 and = 177746.51
+18:26:26.334 [main] INFO  Resources.base - Driver is initialized
+18:26:26.430 [main] INFO  Resources.base - INFO - FOUND:  American Express Volume > $0.00 and = 3134.00

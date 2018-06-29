@@ -1,0 +1,6 @@
+17:18:45.361 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+17:18:51.790 [main] INFO  Resources.base - INFO - FOUND: 1117 North Barrett Lane and 3026 S BROOKRIDGE WAY
+17:21:04.973 [main] INFO  Resources.base - Driver is initialized
+17:21:04.979 [main] INFO  Resources.base - LandingPage is Loaded
+17:21:05.037 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+17:21:11.566 [main] INFO  Resources.base - INFO - FOUND: 1117 North Barrett Lane and 3026 S BROOKRIDGE WAY

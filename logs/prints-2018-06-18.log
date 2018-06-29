@@ -1,0 +1,8 @@
+13:30:56.196 [main] INFO  Resources.base - INFO - FOUND: EMAF
+13:30:56.971 [main] INFO  Resources.base - INFO - FOUND: Outbounds
+13:56:28.881 [main] INFO  Resources.base - Driver is initialized
+13:56:28.885 [main] INFO  Resources.base - LandingPage is Loaded
+13:56:28.947 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+13:56:28.969 [main] INFO  Resources.base - pass Master Toolbox = Master Toolbox
+13:56:28.970 [main] INFO  Resources.base - Assertion Passed
+13:56:29.694 [main] INFO  Resources.base - INFO - FOUND: Dashboard information and statistics

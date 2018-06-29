@@ -1,0 +1,6 @@
+16:50:17.540 [main] INFO  Resources.base - Driver is initialized
+16:50:17.549 [main] INFO  Resources.base - LandingPage is Loaded
+16:50:17.619 [main] INFO  Resources.base - Get Title of LandingPage: Master Toolbox
+16:50:24.506 [main] INFO  Resources.base - INFO - FOUND: 1117 North Barrett Lane and 3026 S BROOKRIDGE WAY
+16:50:27.100 [main] INFO  Resources.base - INFO - FOUND: ManageUsersPaymentHistoryMakePaymentButton
+16:50:27.664 [main] INFO  Resources.base - INFO - FOUND: ManageUsersPaymentHistoryMakePaymentOneTimeButton

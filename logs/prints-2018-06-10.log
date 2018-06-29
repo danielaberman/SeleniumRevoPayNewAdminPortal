@@ -1,0 +1,8 @@
+04:29:58.935 [main] INFO  Resources.base - INFO - FOUND: Outbounds
+04:30:20.816 [main] INFO  Resources.base - INFO - FOUND: Transactions
+04:30:21.675 [main] INFO  Resources.base - INFO - FOUND: Autopayments
+04:31:09.136 [main] INFO  Resources.base - INFO - FOUND: Autopayments
+04:31:09.719 [main] INFO  Resources.base - INFO - FOUND: Pricing Tables
+04:31:10.555 [main] INFO  Resources.base - INFO - FOUND: Manage Merchant
+04:31:11.457 [main] INFO  Resources.base - INFO - FOUND: Manage User
+04:31:12.434 [main] INFO  Resources.base - INFO - FOUND: Manage Partners
